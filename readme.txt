@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Official landing page for the national technical event/fest "TECH-FIESTA 2023" of PCET's NMIET
